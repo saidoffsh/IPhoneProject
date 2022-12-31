@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700;900&family=Montserrat:wght@100;400;500;600;700;800;900&family=Noto+Sans:wght@100;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;400;500;600;700;800&family=Raleway:wght@100;400;500;700;800&family=Roboto+Condensed:wght@300;400;700&family=Rubik:wght@400;500;600;700;800;900&family=Vollkorn:wght@400;500;600;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* START CONTANT 6 */
+.contant6-SR{
+    margin: 90px 0px;
+}
+.Plan-SR{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.pricing-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #222222;
+}
+.need-SR{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    margin: 15px 0px;
+    color: #222222;
+}
+.Lorem-SR{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    
+    text-align: center;
+    padding-bottom: 48px;
+    color: #666666;
+}
+.money-SR, .money1-SR, .money2-SR{
+    text-align: center;
+    width: 28%;
+    padding: 30px 0px 37px 0px ;
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+.Standard-SR{
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #0278ED;   
+}
+.nine-SR{
+    font-weight: 400;
+    font-size: 108px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #0278ED;
+}
+.Monthly-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+    margin: 20px 0px 20px 0px;
+}
+.Buy-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #0278ED;
+    border-radius: 4px;
+    border: none;
+    width: 30%;
+    padding: 13px 0px;
+}
+.three-money-SR{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.Premium-SR{
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    color: #FF5437;
+}
+.ninety-nine-SR{
+    font-weight: 400;
+    font-size: 105px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #FF5437;
+}
+.Annually-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+    
+    margin: 20px 0px 20px 0px;
+}
+.Lifetime-SR{
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    color: #FF9209;
+}
+.hundred-SR{
+    font-weight: 400;
+    font-size: 105px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #FF9209;
+}
+.up-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+    margin: 20px 0px 20px 0px;
+}
+.Buy-SR, .Buy1-SR, .Buy2-SR{
+    cursor: pointer;
+}
+.Buy-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #0278ED;
+    border-radius: 4px;
+    border: none;
+    width: 30%;
+    padding: 13px 0px;
+}
+.Buy1-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #FF5437;
+    border-radius: 4px;
+    border: none;
+    width: 30%;
+    padding: 13px 0px;
+}
+.Buy2-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #FF9209;
+    border-radius: 4px;
+    border: none;
+    width: 30%;
+    padding: 13px 0px;   
+}
+.Buy-SR:hover{
+    background-color: black;
+    font-weight: 400;
+    color: #0278ED;
+    
+    transform: scale(1.2);
+    transition: 1s;
+}
+.Buy1-SR:hover{
+    background-color: black;
+    font-weight: 400;
+    color: #FF5437;
+    transform: scale(1.2);
+    transition: 1s;
+}
+.Buy2-SR:hover{
+    background-color: black;
+    color: #FF9209;
+    transform: scale(1.2);
+    transition: 1s;
+}
+/* TAMOM CONTENT 6 */
+
+
+
+/* START CONTANT7 */
+.contant7-SR{
+    padding: 90px 0px;
+    background-color: #F2F2F2;
+}
+.Testimonials-SR{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.word-SR{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    margin: 5px 0px 15px 0px;
+    color: #222222;
+}
+.customers-SR{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 48px;
+    color: #666666;
+}
+.three-contact-SR{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+}
+.Pam-SR, .Michael-SR, .Angels-SR{
+    text-align: start;
+    width: 28%;
+    padding: 30px 35px 30px 35px ;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+.Pam-profile-SR, .Michael-profile-SR, .Angels-profile-SR{
+    display: flex;
+    gap: 10px;
+}
+/* END CONTANT7 */
+
+/* START CONTANT8 */
+.contant8-SR{
+    padding: 90px 0px 110px 0px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.button-SR{
+    background-color: black;
+    width: 25%;
+    padding-bottom: 5px;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.button-SR i{    
+    margin-top: 5px;
+    color: white;
+    font-size: 35px;
+}
+.text-button-SR p{
+    margin-top: 10px;
+    margin-bottom: -8px;
+    color: white;
+    font-weight: 400;
+    font-size: 11px;
+}
+.text-button-SR h1{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.contant8-SR h2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.avai-SR{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+    margin: 7px 0px 15px 0px;    
+}
+.Duis-SR{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #666666;
+    margin-bottom: 25px;
+}
+/* END CONTANT8 */
+
+
+/* START CONTANT9 */
+.contant9-SR{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #E5E5E5;
+    padding: 100px 0px 40px 0px;
+    width: 100%;
+}
+.left-SR{
+    display: flex;
+    flex-direction: column;
+    
+    width: 43%;
+    margin: auto;
+    margin-top: 20px;
+}
+.left-SR h3, .right-SR h3{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+}
+.left-SR p, .right-SR p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #222222;
+}
+.left-SR h1{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+}
+.right-SR{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+}
+.left-0-SR h1, .left-1-SR h3, .left-2-SR h3{
+    margin-bottom: 10px;
+}
+.left-0-SR, .left-1-SR, .left-2-SR{
+    margin-bottom: 30px;
+}
+.right-0-SR{
+    margin-top:  50px;
+}
+.right-0-SR h3, .right-1-SR h3{
+    margin-bottom:  10px;
+}
+.right-0-SR p, .right-1-SR p{
+    margin-bottom:  30px;
+}
+/* END CONTANT9 */
+
+
+
+/* START CONTANT 10 */
+.contant10-SR{
+    text-align: center;
+    padding: 90px 0px;
+}
+.H-SR{
+    width: 75.01px;
+    height: 74.95px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.Happy-SR{
+    width: 120px;
+    height: 37.41px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.icons-SR{
+    width: 7%;
+    margin: auto;
+    font-size: 20px;
+    margin-left: 630px;
+    margin-bottom: 15px;
+}
+.contant10-SR p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #B1B1B1;
+}
+.contant10-SR span{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;
+}
+/* END CONTANT 10 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
