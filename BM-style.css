@@ -53,10 +53,12 @@
 }
 
 .BM-contant5{
+    overflow: hidden;
     width: 80%;
     height: 444px;
     display: flex;
     background-color:  #F2F2F2;
+    margin-top: -1px;
 }
 .BM-textright{
     width: 420px;
@@ -99,16 +101,22 @@
     margin-top: 100px;
 }
 .BM-contant6{
+    overflow: hidden;
+    z-index: 11;
     height: 997px;
 
  width: 80%;
+ 
  text-align: center;
+ 
 background: #222222;
 }
 .BM-contant6 h2{
     width: 103px;
 height: 20px;
-
+text-align: center;
+margin-left: 569px ;
+margin-top: 100px;
 font-family: 'Poppins';
 font-weight: 400;
 font-size: 14px;
@@ -124,7 +132,7 @@ color: #FFFFFF;
 .BM-contant6 h1{
     width: 364px;
 height: 36px;
-
+margin-left: 438px;
 font-family: 'Poppins';
 font-weight: 400;
 font-size: 32px;
@@ -136,7 +144,7 @@ color: #FFFFFF;
 .BM-contant6 p{
   width: 578px;
 height: 48px;
-
+margin-left: 331px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
@@ -145,4 +153,65 @@ line-height: 24px;
 text-align: center;
 
 color: #FFFFFF;
+}
+.line{
+    margin-top: -255px;
+    width:  600px;
+color: #E5E5E5;
+
+}
+.BM-container img{
+    width: 24px;
+    height: 24px;
+}
+.BM-container h3{
+    width: 133px;
+height: 20px;
+margin-left: -40px;
+margin-top: -0.1px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+}
+.BM-container1 img{
+    width: 24px;
+    height: 24px;
+    margin-left: 20px;
+}
+.BM-container1 h3{
+    width: 133px;
+height: 20px;
+margin-left: -40px;
+margin-top: -0.1px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+}
+.BM-container{
+    color: #FFFFFF;
+    margin-top: -200px;
+    margin-left: 450px;
+    padding: 26px;
+
+}
+.BM-container1{
+    color: #FFFFFF;
+    margin-top: -115px;
+    margin-left: 650px;
+    padding: 26px;
+    /* lalala */
 }
