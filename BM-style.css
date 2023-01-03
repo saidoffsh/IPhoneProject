@@ -1,0 +1,148 @@
+.BM-contant4{
+    /* width: 1168px; */
+    width: 80%;
+    height: 444px;
+    display: flex;
+    
+    overflow: hidden;
+
+}
+.BM-text{
+    margin-left: 140px;
+    margin-top: 0px;
+    width: 420px;
+    height: 290px;
+}
+.BM-text h3{
+    width: 118px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #222222;
+
+}
+.BM-text h1{
+    width: 409px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+
+}
+.BM-text p{
+    width: 403px;
+    height: 168px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #666666;
+
+}
+.BM-image{
+    width: 376px;
+    height: 744px;
+    margin-left: 80px;
+}
+
+
+.BM-contants{
+    overflow: hidden;
+}
+
+.BM-contant5{
+    width: 80%;
+    height: 444px;
+    display: flex;
+    background-color:  #F2F2F2;
+}
+.BM-textright{
+    width: 420px;
+    height: 290px;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.BM-textright h3{
+    width: 159px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #222222;
+
+}
+.BM-textright h1{
+    width: 396px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+
+}
+.BM-textright p{
+    width: 403px;
+    height: 168px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #666666;
+
+}
+.BM-imageleft{
+    width: 376px;
+    height: 744px;
+    margin-left: 140px;
+    margin-top: 100px;
+}
+.BM-contant6{
+    height: 997px;
+
+ width: 80%;
+ text-align: center;
+background: #222222;
+}
+.BM-contant6 h2{
+    width: 103px;
+height: 20px;
+
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+   
+}
+.BM-contant6 h1{
+    width: 364px;
+height: 36px;
+
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.BM-contant6 p{
+  width: 578px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+}
